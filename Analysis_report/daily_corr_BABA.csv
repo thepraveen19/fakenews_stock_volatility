@@ -1,0 +1,23 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,N,N,N,,N,B5_N_Dm,B5_N_Dm,B5_N_Dm,,B5_N_Dm,B5_N_Um,B5_N_Um,B5_N_Um,,B5_N_Um,,B5_N_Dm,B5_N_Um,Verified_status_True,Verified_status_False
+1,NATR,vol_current,Volume,E,E,E,,E,B5_E_Dm,B5_E_Dm,B5_E_Dm,,B5_E_Dm,B5_E_Um,B5_E_Um,B5_E_Um,,B5_E_Um,,B5_E_Dm,B5_E_Um,N,N
+2,TRANGE,vol_future,N,C,C,C,,C,B5_C_Dm,B5_C_Dm,B5_C_Dm,,B5_C_Dm,B5_C_Um,B5_C_Um,B5_C_Um,,B5_C_Um,,B5_C_Dm,B5_C_Um,E,E
+3,AD,AvgTrueRange,E,O,O,O,,O,B5_O_Dm,B5_O_Dm,B5_O_Dm,,B5_O_Dm,B5_O_Um,B5_O_Um,B5_O_Um,,B5_O_Um,,B5_O_Dm,B5_O_Um,C,C
+4,Variance,Volume,C,Verified_status_False,Verified_status_False,Verified_status_False,,Verified_status_False,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,Upward_momentum_created,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,,Downward_momentum_created,Upward_momentum_created,O,O
+5,,Verified_status_False,O,Volume,Volume,Volume,,Volume,B5_N_Um,B5_N_Um,B5_N_Um,,B5_N_Um,B5_N_Dm,B5_N_Dm,B5_N_Dm,,B5_N_Dm,,B5_N_Um,B5_N_Dm,Verified_status_False,Volume
+6,,E,Verified_status_False,Verified_status_True,Verified_status_True,Verified_status_True,,Verified_status_True,B5_E_Um,B5_E_Um,B5_E_Um,,B5_E_Um,B5_E_Dm,B5_E_Dm,B5_E_Dm,,B5_E_Dm,,B5_E_Um,B5_E_Dm,Volume,Verified_status_True
+7,,C,Verified_status_True,TRANGE,TRANGE,TRANGE,,TRANGE,B5_C_Um,B5_C_Um,B5_C_Um,,B5_C_Um,B5_C_Dm,B5_C_Dm,B5_C_Dm,,B5_C_Dm,,B5_C_Um,B5_C_Dm,B5_N_Um,TRANGE
+8,,O,AvgTrueRange,NATR,NATR,NATR,,NATR,B5_O_Um,B5_O_Um,B5_O_Um,,B5_O_Um,B5_O_Dm,B5_O_Dm,B5_O_Dm,,B5_O_Dm,,B5_O_Um,B5_O_Dm,B5_E_Um,NATR
+9,,N,,B5_N_Dm,B5_N_Dm,B5_N_Dm,,B5_N_Dm,Upward_momentum_created,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,,Upward_momentum_created,Downward_momentum_created,B5_C_Um,B5_N_Dm
+10,,High,,B5_E_Dm,B5_E_Dm,B5_E_Dm,,B5_E_Dm,Verified_status_True,Verified_status_True,Verified_status_True,,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,,Verified_status_True,,Verified_status_True,Verified_status_True,B5_O_Um,B5_E_Dm
+11,,Middleband,,B5_C_Dm,B5_C_Dm,B5_C_Dm,,B5_C_Dm,N,N,N,,N,N,N,N,,N,,N,N,Upward_momentum_created,B5_C_Dm
+12,,Open,,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,E,E,E,,E,E,E,E,,E,,E,E,B5_E_Dm,B5_N_Um
+13,,Adj Close,,B5_O_Dm,B5_O_Dm,B5_O_Dm,,B5_O_Dm,C,C,C,,C,C,C,C,,C,,C,C,B5_C_Dm,B5_E_Um
+14,,Close,,B5_N_Um,B5_N_Um,B5_N_Um,,B5_N_Um,O,O,O,,O,O,O,O,,O,,O,O,B5_N_Dm,B5_C_Um
+15,,APO,,B5_E_Um,B5_E_Um,B5_E_Um,,B5_E_Um,Verified_status_False,Verified_status_False,Verified_status_False,,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,,Verified_status_False,,Verified_status_False,Verified_status_False,Downward_momentum_created,B5_O_Um
+16,,MACDSIGNAL,,B5_C_Um,B5_C_Um,B5_C_Um,,B5_C_Um,,,,,,,,,,,,,,B5_O_Dm,Downward_momentum_created
+17,,Low,,B5_O_Um,B5_O_Um,B5_O_Um,,B5_O_Um,,,,,,,,,,,,,,TRANGE,Upward_momentum_created
+18,,OBV,,Upward_momentum_created,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,,,,,,,,,,,,,,,B5_O_Dm
+19,,PPO,,,,,,,,,,,,,,,,,,,,,
+20,,Lowerband,,,,,,,,,,,,,,,,,,,,,
+21,,MACD,,,,,,,,,,,,,,,,,,,,,

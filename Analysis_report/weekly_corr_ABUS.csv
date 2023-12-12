@@ -1,0 +1,24 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,N,N,N,N,N,,,,,,B5_N_Dm,B5_N_Dm,B5_N_Dm,B5_N_Dm,B5_N_Dm,,,B5_N_Dm,Verified_status_True,Verified_status_False
+1,Upperband,,AvgTrueRange,A,A,A,A,A,,,,,,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,,,B5_A_Dm,Volume,N
+2,TRANGE,,Upperband,E,E,E,E,E,,,,,,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,,,B5_E_Dm,B5_N_Dm,A
+3,High,,High,C,C,C,C,C,,,,,,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,,,B5_C_Dm,B5_A_Dm,E
+4,Middleband,,Variance,O,O,O,O,O,,,,,,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,,,B5_O_Dm,B5_E_Dm,C
+5,Open,,Open,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,,,,,,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,,,Downward_momentum_created,B5_C_Dm,O
+6,Adj Close,,Close,B5_N_Dm,B5_N_Dm,B5_N_Dm,B5_N_Dm,B5_N_Dm,,,,,,N,N,N,N,N,,,N,B5_O_Dm,B5_N_Dm
+7,Close,,Adj Close,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,,,,,,A,A,A,A,A,,,A,Downward_momentum_created,B5_A_Dm
+8,Low,,B5_O_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,,,,,,E,E,E,E,E,,,E,N,B5_E_Dm
+9,Lowerband,,Downward_momentum_created,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,,,,,,C,C,C,C,C,,,C,A,B5_C_Dm
+10,Variance,,B5_C_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,,,,,,O,O,O,O,O,,,O,E,B5_O_Dm
+11,,,B5_E_Dm,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,,,,,,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,,,Verified_status_False,C,Downward_momentum_created
+12,,,B5_A_Dm,Volume,Volume,Volume,Volume,Volume,,,,,,Volume,Volume,Volume,Volume,Volume,,,Volume,O,Volume
+13,,,B5_N_Dm,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,,,,,,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,,,Verified_status_True,Verified_status_False,Verified_status_True
+14,,,Middleband,TRANGE,TRANGE,TRANGE,TRANGE,TRANGE,,,,,,TRANGE,TRANGE,TRANGE,TRANGE,TRANGE,,,TRANGE,,TRANGE
+15,,,Low,ADOSC,ADOSC,ADOSC,ADOSC,ADOSC,,,,,,,,,,,,,,,ADOSC
+16,,,A,,,,,,,,,,,,,,,,,,,,
+17,,,O,,,,,,,,,,,,,,,,,,,,
+18,,,C,,,,,,,,,,,,,,,,,,,,
+19,,,E,,,,,,,,,,,,,,,,,,,,
+20,,,N,,,,,,,,,,,,,,,,,,,,
+21,,,Verified_status_False,,,,,,,,,,,,,,,,,,,,
+22,,,Volume,,,,,,,,,,,,,,,,,,,,

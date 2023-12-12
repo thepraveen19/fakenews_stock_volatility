@@ -1,0 +1,19 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,Fake_news,Fake_news,,,Fake_news,,,,,,B5_N_Dm,B5_N_Dm,,,B5_N_Dm,Fake_news,,B5_N_Dm,Verified_status_True,Verified_status_False
+1,NATR,AvgTrueRange,Volume,N,N,,,N,,,,,,B5_C_Dm,B5_C_Dm,,,B5_C_Dm,N,,B5_C_Dm,B5_N_Dm,Fake_news
+2,vol_current,vol_current,Verified_status_False,C,C,,,C,,,,,,B5_O_Dm,B5_O_Dm,,,B5_O_Dm,C,,B5_O_Dm,B5_C_Dm,N
+3,Upperband,vol_future,Fake_news,O,O,,,O,,,,,,Downward_momentum_created,Downward_momentum_created,,,Downward_momentum_created,O,,Downward_momentum_created,B5_O_Dm,C
+4,vol_future,TRANGE,N,Verified_status_False,Verified_status_False,,,Verified_status_False,,,,,,Fake_news,Fake_news,,,Fake_news,Verified_status_False,,Fake_news,Downward_momentum_created,O
+5,High,Volume,C,B5_N_Dm,B5_N_Dm,,,B5_N_Dm,,,,,,N,N,,,N,B5_N_Dm,,N,Fake_news,B5_N_Dm
+6,Middleband,Upperband,O,B5_C_Dm,B5_C_Dm,,,B5_C_Dm,,,,,,C,C,,,C,B5_C_Dm,,C,N,B5_C_Dm
+7,Open,,B5_N_Dm,B5_O_Dm,B5_O_Dm,,,B5_O_Dm,,,,,,O,O,,,O,B5_O_Dm,,O,C,B5_O_Dm
+8,Close,,B5_C_Dm,Downward_momentum_created,Downward_momentum_created,,,Downward_momentum_created,,,,,,Verified_status_False,Verified_status_False,,,Verified_status_False,Downward_momentum_created,,Verified_status_False,O,Downward_momentum_created
+9,Adj Close,,B5_O_Dm,Volume,Volume,,,Volume,,,,,,Verified_status_True,Verified_status_True,,,Verified_status_True,Volume,,Verified_status_True,Verified_status_False,Volume
+10,Low,,Downward_momentum_created,Verified_status_True,Verified_status_True,,,Verified_status_True,,,,,,Volume,Volume,,,Volume,Verified_status_True,,Volume,Volume,Verified_status_True
+11,TRANGE,,AvgTrueRange,TRANGE,TRANGE,,,TRANGE,,,,,,TRANGE,TRANGE,,,TRANGE,TRANGE,,TRANGE,TRANGE,TRANGE
+12,OBV,,NATR,,,,,,,,,,,,,,,,,,,,
+13,Lowerband,,Verified_status_True,,,,,,,,,,,,,,,,,,,,
+14,MACDSIGNAL,,,,,,,,,,,,,,,,,,,,,,
+15,MACD,,,,,,,,,,,,,,,,,,,,,,
+16,Volume,,,,,,,,,,,,,,,,,,,,,,
+17,TRIX,,,,,,,,,,,,,,,,,,,,,,

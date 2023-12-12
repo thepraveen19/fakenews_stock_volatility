@@ -1,0 +1,17 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,Fake_news,Fake_news,Fake_news,Fake_news,,,,,,,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,,Fake_news,,B5_A_Dm,Verified_status_True,Verified_status_False
+1,TRANGE,AvgTrueRange,AvgTrueRange,A,A,A,A,,,,,,,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,,A,,B5_E_Dm,Fake_news,Fake_news
+2,NATR,TRANGE,Variance,E,E,E,E,,,,,,,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,,E,,B5_C_Dm,A,A
+3,Upperband,,NATR,C,C,C,C,,,,,,,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,,C,,B5_O_Dm,E,E
+4,High,,,O,O,O,O,,,,,,,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,,O,,Downward_momentum_created,C,C
+5,Open,,,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,,,,,,,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,,Verified_status_False,,Verified_status_False,O,O
+6,Adj Close,,,Volume,Volume,Volume,Volume,,,,,,,Fake_news,Fake_news,Fake_news,Fake_news,,Volume,,Fake_news,Verified_status_False,Volume
+7,Close,,,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,,,,,,,A,A,A,A,,B5_A_Dm,,A,Volume,B5_A_Dm
+8,Middleband,,,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,,,,,,,E,E,E,E,,B5_E_Dm,,E,B5_A_Dm,B5_E_Dm
+9,Variance,,,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,,,,,,,C,C,C,C,,B5_C_Dm,,C,B5_E_Dm,B5_C_Dm
+10,TRIX,,,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,,,,,,,O,O,O,O,,B5_O_Dm,,O,B5_C_Dm,B5_O_Dm
+11,Low,,,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,,,,,,,Volume,Volume,Volume,Volume,,Downward_momentum_created,,Volume,B5_O_Dm,Downward_momentum_created
+12,,,,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,,,,,,,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,,Verified_status_True,,Verified_status_True,Downward_momentum_created,Verified_status_True
+13,,,,OBV,OBV,OBV,OBV,,,,,,,OBV,OBV,OBV,OBV,,OBV,,OBV,OBV,OBV
+14,,,,AD,AD,AD,AD,,,,,,,AD,AD,AD,AD,,AD,,AD,AD,AD
+15,,,,ADOSC,ADOSC,ADOSC,ADOSC,,,,,,,ADOSC,ADOSC,ADOSC,ADOSC,,ADOSC,,ADOSC,ADOSC,ADOSC

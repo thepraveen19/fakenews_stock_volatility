@@ -1,0 +1,21 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,Fake_news,,Fake_news,,Fake_news,,,,,,B5_N_Dm,,B5_N_Dm,,B5_N_Dm,Fake_news,,B5_N_Dm,Verified_status_True,Verified_status_False
+1,TRANGE,AvgTrueRange,AvgTrueRange,N,,N,,N,,,,,,B5_E_Dm,,B5_E_Dm,,B5_E_Dm,N,,B5_E_Dm,Fake_news,Fake_news
+2,NATR,TRANGE,Variance,E,,E,,E,,,,,,B5_O_Dm,,B5_O_Dm,,B5_O_Dm,E,,B5_O_Dm,N,N
+3,Upperband,Volume,Upperband,O,,O,,O,,,,,,Downward_momentum_created,,Downward_momentum_created,,Downward_momentum_created,O,,Downward_momentum_created,E,E
+4,Middleband,,NATR,Verified_status_False,,Verified_status_False,,Verified_status_False,,,,,,Verified_status_True,,Verified_status_True,,Verified_status_True,Verified_status_False,,Verified_status_True,O,O
+5,Variance,,Verified_status_False,Verified_status_True,,Verified_status_True,,Verified_status_True,,,,,,Fake_news,,Fake_news,,Fake_news,Verified_status_True,,Fake_news,Verified_status_False,Verified_status_True
+6,High,,Fake_news,B5_N_Dm,,B5_N_Dm,,B5_N_Dm,,,,,,N,,N,,N,B5_N_Dm,,N,B5_N_Dm,B5_N_Dm
+7,TRIX,,E,B5_E_Dm,,B5_E_Dm,,B5_E_Dm,,,,,,E,,E,,E,B5_E_Dm,,E,B5_E_Dm,B5_E_Dm
+8,Open,,O,B5_O_Dm,,B5_O_Dm,,B5_O_Dm,,,,,,O,,O,,O,B5_O_Dm,,O,B5_O_Dm,B5_O_Dm
+9,Adj Close,,N,Downward_momentum_created,,Downward_momentum_created,,Downward_momentum_created,,,,,,Verified_status_False,,Verified_status_False,,Verified_status_False,Downward_momentum_created,,Verified_status_False,Downward_momentum_created,Downward_momentum_created
+10,Close,,High,Variance,,Variance,,Variance,,,,,,,,,,,Variance,,,Variance,Variance
+11,Low,,Middleband,TRANGE,,TRANGE,,TRANGE,,,,,,,,,,,TRANGE,,,TRANGE,TRANGE
+12,Lowerband,,Open,DMI,,DMI,,DMI,,,,,,,,,,,DMI,,,,DMI
+13,OBV,,Adj Close,,,,,,,,,,,,,,,,,,,,
+14,,,Close,,,,,,,,,,,,,,,,,,,,
+15,,,TRIX,,,,,,,,,,,,,,,,,,,,
+16,,,Low,,,,,,,,,,,,,,,,,,,,
+17,,,Lowerband,,,,,,,,,,,,,,,,,,,,
+18,,,OBV,,,,,,,,,,,,,,,,,,,,
+19,,,Verified_status_True,,,,,,,,,,,,,,,,,,,,

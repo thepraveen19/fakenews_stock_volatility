@@ -1,0 +1,14 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,Fake_news,,,,,,,,,,B5_O_Dm,,,,,Fake_news,,B5_O_Dm,Verified_status_True,Verified_status_False
+1,TRANGE,AvgTrueRange,AvgTrueRange,O,,,,,,,,,,Downward_momentum_created,,,,,O,,Downward_momentum_created,B5_O_Dm,Fake_news
+2,NATR,TRANGE,NATR,Verified_status_False,,,,,,,,,,Verified_status_True,,,,,Verified_status_False,,Verified_status_True,Downward_momentum_created,O
+3,Variance,Variance,Variance,Verified_status_True,,,,,,,,,,Fake_news,,,,,Verified_status_True,,Fake_news,Fake_news,Verified_status_True
+4,Upperband,MACD,Upperband,B5_O_Dm,,,,,,,,,,O,,,,,B5_O_Dm,,O,O,B5_O_Dm
+5,Adj Close,,Middleband,Downward_momentum_created,,,,,,,,,,Verified_status_False,,,,,Downward_momentum_created,,Verified_status_False,Verified_status_False,Downward_momentum_created
+6,High,,Adj Close,,,,,,,,,,,,,,,,,,,,
+7,Middleband,,High,,,,,,,,,,,,,,,,,,,,
+8,Close,,Open,,,,,,,,,,,,,,,,,,,,
+9,Open,,Close,,,,,,,,,,,,,,,,,,,,
+10,Low,,Low,,,,,,,,,,,,,,,,,,,,
+11,Lowerband,,Lowerband,,,,,,,,,,,,,,,,,,,,
+12,OBV,,OBV,,,,,,,,,,,,,,,,,,,,

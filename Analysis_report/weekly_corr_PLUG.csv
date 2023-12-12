@@ -1,0 +1,29 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,,N,N,,N,,B5_C_Um,B5_C_Um,,B5_C_Um,,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,,B5_C_Um,Downward_momentum_created,Verified_status_True,Verified_status_False
+1,TRANGE,Volume,AvgTrueRange,,C,C,,C,,B5_E_Um,B5_E_Um,,B5_E_Um,,B5_N_Dm,B5_N_Dm,,B5_N_Dm,,B5_E_Um,B5_N_Dm,B5_C_Um,N
+2,Upperband,AvgTrueRange,Upperband,,E,E,,E,,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,,B5_E_Dm,B5_E_Dm,,B5_E_Dm,,Upward_momentum_created,B5_E_Dm,Upward_momentum_created,C
+3,High,TRANGE,High,,Verified_status_False,Verified_status_False,,Verified_status_False,,B5_N_Um,B5_N_Um,,B5_N_Um,,B5_C_Dm,B5_C_Dm,,B5_C_Dm,,B5_N_Um,B5_C_Dm,B5_N_Um,E
+4,Middleband,,Close,,B5_N_Um,B5_N_Um,,B5_N_Um,,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,,B5_C_Um,B5_C_Um,,B5_C_Um,,Downward_momentum_created,B5_C_Um,B5_E_Um,B5_N_Um
+5,Open,,Adj Close,,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,,B5_N_Dm,B5_N_Dm,,B5_N_Dm,,B5_E_Um,B5_E_Um,,B5_E_Um,,B5_N_Dm,B5_E_Um,Downward_momentum_created,Upward_momentum_created
+6,Close,,Open,,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,,B5_E_Dm,B5_E_Dm,,B5_E_Dm,,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,,B5_E_Dm,Upward_momentum_created,B5_N_Dm,B5_C_Um
+7,Adj Close,,Low,,B5_C_Um,B5_C_Um,,B5_C_Um,,B5_C_Dm,B5_C_Dm,,B5_C_Dm,,B5_N_Um,B5_N_Um,,B5_N_Um,,B5_C_Dm,B5_N_Um,B5_E_Dm,B5_E_Um
+8,Low,,Middleband,,B5_E_Um,B5_E_Um,,B5_E_Um,,E,E,,E,,E,E,,E,,E,E,B5_C_Dm,B5_C_Dm
+9,Lowerband,,Lowerband,,B5_C_Dm,B5_C_Dm,,B5_C_Dm,,N,N,,N,,N,N,,N,,N,N,E,B5_E_Dm
+10,OBV,,Verified_status_False,,B5_E_Dm,B5_E_Dm,,B5_E_Dm,,C,C,,C,,C,C,,C,,C,C,N,Downward_momentum_created
+11,AD,,E,,B5_N_Dm,B5_N_Dm,,B5_N_Dm,,Verified_status_False,Verified_status_False,,Verified_status_False,,Verified_status_False,Verified_status_False,,Verified_status_False,,Verified_status_False,Verified_status_False,C,B5_N_Dm
+12,Verified_status_False,,N,,Volume,Volume,,Volume,,Volume,Volume,,Volume,,Volume,Volume,,Volume,,Volume,Volume,Verified_status_False,Volume
+13,E,,C,,TRANGE,TRANGE,,TRANGE,,Verified_status_True,Verified_status_True,,Verified_status_True,,Verified_status_True,Verified_status_True,,Verified_status_True,,Verified_status_True,Verified_status_True,Volume,TRANGE
+14,C,,OBV,,Verified_status_True,Verified_status_True,,Verified_status_True,,TRANGE,TRANGE,,TRANGE,,TRANGE,TRANGE,,TRANGE,,TRANGE,TRANGE,TRANGE,Verified_status_True
+15,N,,AD,,Close,Close,,Close,,Close,Close,,Close,,Close,Close,,Close,,Close,Close,Variance,Close
+16,Volume,,Volume,,Adj Close,Adj Close,,Adj Close,,Adj Close,Adj Close,,Adj Close,,Adj Close,Adj Close,,Adj Close,,Adj Close,Adj Close,AvgTrueRange,Adj Close
+17,Downward_momentum_created,,Downward_momentum_created,,High,High,,High,,High,High,,High,,High,High,,High,,High,High,Upperband,High
+18,B5_C_Dm,,B5_C_Dm,,Upperband,Upperband,,Upperband,,AvgTrueRange,AvgTrueRange,,AvgTrueRange,,AvgTrueRange,AvgTrueRange,,AvgTrueRange,,AvgTrueRange,AvgTrueRange,High,Upperband
+19,B5_E_Dm,,B5_E_Dm,,Open,Open,,Open,,Upperband,Upperband,,Upperband,,Upperband,Upperband,,Upperband,,Upperband,Upperband,Close,Open
+20,B5_N_Dm,,B5_N_Dm,,Low,Low,,Low,,Open,Open,,Open,,Open,Open,,Open,,Open,Open,Adj Close,Low
+21,Upward_momentum_created,,Upward_momentum_created,,AvgTrueRange,AvgTrueRange,,AvgTrueRange,,Low,Low,,Low,,Low,Low,,Low,,Low,Low,Open,AvgTrueRange
+22,B5_C_Um,,B5_C_Um,,Middleband,Middleband,,Middleband,,ADOSC,ADOSC,,ADOSC,,ADOSC,ADOSC,,ADOSC,,ADOSC,ADOSC,Low,Middleband
+23,B5_E_Um,,B5_E_Um,,OBV,OBV,,OBV,,Middleband,Middleband,,Middleband,,Middleband,Middleband,,Middleband,,Middleband,Middleband,Middleband,OBV
+24,B5_N_Um,,B5_N_Um,,Lowerband,Lowerband,,Lowerband,,OBV,OBV,,OBV,,OBV,OBV,,OBV,,OBV,OBV,OBV,Lowerband
+25,Verified_status_True,,Verified_status_True,,AD,AD,,AD,,Lowerband,Lowerband,,Lowerband,,Lowerband,Lowerband,,Lowerband,,Lowerband,Lowerband,ADOSC,AD
+26,NATR,,Variance,,Variance,Variance,,Variance,,AD,AD,,AD,,AD,AD,,AD,,AD,AD,Lowerband,Variance
+27,Variance,,NATR,,ADOSC,ADOSC,,ADOSC,,Variance,Variance,,Variance,,Variance,Variance,,Variance,,Variance,Variance,AD,ADOSC

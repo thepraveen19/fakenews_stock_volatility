@@ -1,0 +1,31 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,,N,N,,N,,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,,Downward_momentum_created,Upward_momentum_created,Verified_status_True,Verified_status_False
+1,Upperband,vol_future,AvgTrueRange,,C,C,,C,,B5_N_Dm,B5_N_Dm,,B5_N_Dm,,B5_E_Um,B5_E_Um,,B5_E_Um,,B5_N_Dm,B5_E_Um,B5_N_Dm,N
+2,Middleband,vol_current,Upperband,,E,E,,E,,B5_E_Dm,B5_E_Dm,,B5_E_Dm,,B5_C_Um,B5_C_Um,,B5_C_Um,,B5_E_Dm,B5_C_Um,B5_E_Dm,C
+3,High,AvgTrueRange,High,,Verified_status_False,Verified_status_False,,Verified_status_False,,B5_C_Dm,B5_C_Dm,,B5_C_Dm,,B5_N_Um,B5_N_Um,,B5_N_Um,,B5_C_Dm,B5_N_Um,B5_C_Dm,E
+4,Close,Volume,Close,,B5_N_Um,B5_N_Um,,B5_N_Um,,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,,Upward_momentum_created,Downward_momentum_created,Downward_momentum_created,B5_N_Um
+5,Adj Close,TRANGE,Adj Close,,Upward_momentum_created,Upward_momentum_created,,Upward_momentum_created,,B5_E_Um,B5_E_Um,,B5_E_Um,,B5_N_Dm,B5_N_Dm,,B5_N_Dm,,B5_E_Um,B5_N_Dm,B5_N_Um,Upward_momentum_created
+6,Open,,Open,,B5_C_Um,B5_C_Um,,B5_C_Um,,B5_C_Um,B5_C_Um,,B5_C_Um,,B5_E_Dm,B5_E_Dm,,B5_E_Dm,,B5_C_Um,B5_E_Dm,B5_E_Um,B5_C_Um
+7,Low,,Middleband,,B5_E_Um,B5_E_Um,,B5_E_Um,,B5_N_Um,B5_N_Um,,B5_N_Um,,B5_C_Dm,B5_C_Dm,,B5_C_Dm,,B5_N_Um,B5_C_Dm,B5_C_Um,B5_E_Um
+8,Lowerband,,Low,,B5_C_Dm,B5_C_Dm,,B5_C_Dm,,E,E,,E,,E,E,,E,,E,E,Upward_momentum_created,B5_C_Dm
+9,TRANGE,,Verified_status_False,,B5_E_Dm,B5_E_Dm,,B5_E_Dm,,N,N,,N,,N,N,,N,,N,N,N,B5_E_Dm
+10,OBV,,N,,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,,C,C,,C,,C,C,,C,,C,C,E,Downward_momentum_created
+11,AD,,E,,B5_N_Dm,B5_N_Dm,,B5_N_Dm,,Verified_status_False,Verified_status_False,,Verified_status_False,,Verified_status_False,Verified_status_False,,Verified_status_False,,Verified_status_False,Verified_status_False,C,B5_N_Dm
+12,Verified_status_False,,C,,Volume,Volume,,Volume,,Verified_status_True,Verified_status_True,,Verified_status_True,,Verified_status_True,Verified_status_True,,Verified_status_True,,Verified_status_True,Verified_status_True,Verified_status_False,Volume
+13,N,,Lowerband,,TRANGE,TRANGE,,TRANGE,,Volume,Volume,,Volume,,Volume,Volume,,Volume,,Volume,Volume,Volume,TRANGE
+14,E,,OBV,,Verified_status_True,Verified_status_True,,Verified_status_True,,TRANGE,TRANGE,,TRANGE,,TRANGE,TRANGE,,TRANGE,,TRANGE,TRANGE,TRANGE,Verified_status_True
+15,C,,Volume,,Close,Close,,Close,,ADOSC,ADOSC,,ADOSC,,ADOSC,ADOSC,,ADOSC,,ADOSC,ADOSC,Variance,Close
+16,Volume,,AD,,Adj Close,Adj Close,,Adj Close,,Adj Close,Adj Close,,Adj Close,,Adj Close,Adj Close,,Adj Close,,Adj Close,Adj Close,,Adj Close
+17,vol_current,,Upward_momentum_created,,High,High,,High,,Close,Close,,Close,,Close,Close,,Close,,Close,Close,,High
+18,NATR,,B5_C_Um,,Low,Low,,Low,,High,High,,High,,High,High,,High,,High,High,,Low
+19,vol_future,,B5_E_Um,,Open,Open,,Open,,AvgTrueRange,AvgTrueRange,,AvgTrueRange,,AvgTrueRange,AvgTrueRange,,AvgTrueRange,,AvgTrueRange,AvgTrueRange,,Open
+20,B5_C_Um,,B5_N_Um,,Upperband,Upperband,,Upperband,,Low,Low,,Low,,Low,Low,,Low,,Low,Low,,Upperband
+21,B5_N_Um,,Downward_momentum_created,,AvgTrueRange,AvgTrueRange,,AvgTrueRange,,Open,Open,,Open,,Open,Open,,Open,,Open,Open,,AvgTrueRange
+22,B5_E_Um,,B5_C_Dm,,Middleband,Middleband,,Middleband,,Upperband,Upperband,,Upperband,,Upperband,Upperband,,Upperband,,Upperband,Upperband,,Middleband
+23,Upward_momentum_created,,B5_E_Dm,,OBV,OBV,,OBV,,OBV,OBV,,OBV,,OBV,OBV,,OBV,,OBV,OBV,,OBV
+24,B5_N_Dm,,B5_N_Dm,,Lowerband,Lowerband,,Lowerband,,Middleband,Middleband,,Middleband,,Middleband,Middleband,,Middleband,,Middleband,Middleband,,Lowerband
+25,Downward_momentum_created,,Verified_status_True,,AD,AD,,AD,,,,,,,,,,,,,,,AD
+26,B5_C_Dm,,Variance,,Variance,Variance,,Variance,,,,,,,,,,,,,,,Variance
+27,B5_E_Dm,,NATR,,ADOSC,ADOSC,,ADOSC,,,,,,,,,,,,,,,ADOSC
+28,Variance,,vol_current,,,,,,,,,,,,,,,,,,,,
+29,,,vol_future,,,,,,,,,,,,,,,,,,,,

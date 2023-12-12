@@ -1,0 +1,29 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,,Fake_news,,,Fake_news,,,,,,,B5_N_Dm,,,B5_N_Dm,Fake_news,,B5_N_Dm,Verified_status_True,Verified_status_False
+1,NATR,AvgTrueRange,AvgTrueRange,,N,,,N,,,,,,,B5_C_Dm,,,B5_C_Dm,N,,B5_C_Dm,B5_N_Dm,Fake_news
+2,TRANGE,TRANGE,Verified_status_False,,C,,,C,,,,,,,Downward_momentum_created,,,Downward_momentum_created,C,,Downward_momentum_created,B5_C_Dm,N
+3,Upperband,Verified_status_False,N,,Verified_status_False,,,Verified_status_False,,,,,,,Verified_status_True,,,Verified_status_True,Verified_status_False,,Verified_status_True,Downward_momentum_created,C
+4,High,N,Fake_news,,Volume,,,Volume,,,,,,,Fake_news,,,Fake_news,Volume,,Fake_news,Fake_news,Volume
+5,Verified_status_False,Fake_news,C,,Verified_status_True,,,Verified_status_True,,,,,,,N,,,N,Verified_status_True,,N,N,TRANGE
+6,N,C,NATR,,TRANGE,,,TRANGE,,,,,,,C,,,C,TRANGE,,C,C,Verified_status_True
+7,Fake_news,Volume,Volume,,B5_N_Dm,,,B5_N_Dm,,,,,,,Verified_status_False,,,Verified_status_False,B5_N_Dm,,Verified_status_False,Verified_status_False,B5_N_Dm
+8,C,B5_C_Dm,High,,B5_C_Dm,,,B5_C_Dm,,,,,,,Volume,,,Volume,B5_C_Dm,,Volume,Volume,B5_C_Dm
+9,Open,Downward_momentum_created,Upperband,,Downward_momentum_created,,,Downward_momentum_created,,,,,,,NATR,,,NATR,Downward_momentum_created,,NATR,NATR,Downward_momentum_created
+10,Close,B5_N_Dm,Open,,NATR,,,NATR,,,,,,,TRANGE,,,TRANGE,NATR,,TRANGE,TRANGE,NATR
+11,Low,Verified_status_True,Close,,AvgTrueRange,,,AvgTrueRange,,,,,,,AvgTrueRange,,,AvgTrueRange,AvgTrueRange,,AvgTrueRange,AvgTrueRange,AvgTrueRange
+12,Middleband,MACDSIGNAL,Adj Close,,MACD,,,MACD,,,,,,,,,,,MACD,,,,MACD
+13,Adj Close,MACD,Low,,Variance,,,Variance,,,,,,,,,,,Variance,,,,Variance
+14,Variance,Variance,MACD,,MACDSIGNAL,,,MACDSIGNAL,,,,,,,,,,,MACDSIGNAL,,,,MACDSIGNAL
+15,MACD,Upperband,Middleband,,Upperband,,,Upperband,,,,,,,,,,,Upperband,,,,Upperband
+16,MACDSIGNAL,High,Verified_status_True,,High,,,High,,,,,,,,,,,High,,,,High
+17,Lowerband,Open,Variance,,MOM,,,MOM,,,,,,,,,,,MOM,,,,Open
+18,Volume,Close,MACDSIGNAL,,Open,,,Open,,,,,,,,,,,Open,,,,MOM
+19,APO,Middleband,Lowerband,,ROCP,,,ROCP,,,,,,,,,,,ROCP,,,,Close
+20,OBV,Low,APO,,Close,,,Close,,,,,,,,,,,Close,,,,ROCP
+21,B5_N_Dm,Adj Close,B5_C_Dm,,APO,,,APO,,,,,,,,,,,APO,,,,APO
+22,B5_C_Dm,APO,Downward_momentum_created,,Low,,,Low,,,,,,,,,,,Low,,,,Low
+23,Downward_momentum_created,PPO,B5_N_Dm,,Adj Close,,,Adj Close,,,,,,,,,,,Adj Close,,,,Adj Close
+24,Verified_status_True,,MOM,,PPO,,,PPO,,,,,,,,,,,PPO,,,,PPO
+25,PPO,,PPO,,OBV,,,OBV,,,,,,,,,,,OBV,,,,OBV
+26,TRIX,,OBV,,Middleband,,,Middleband,,,,,,,,,,,Middleband,,,,Middleband
+27,MOM,,ROCP,,,,,,,,,,,,,,,,,,,,

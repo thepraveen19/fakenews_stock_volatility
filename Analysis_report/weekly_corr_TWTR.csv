@@ -1,0 +1,15 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,Fake_news,Fake_news,,Fake_news,Fake_news,,,,,,B5_N_Dm,B5_N_Dm,,B5_N_Dm,B5_N_Dm,Fake_news,,B5_N_Dm,Verified_status_True,Verified_status_False
+1,NATR,AvgTrueRange,AvgTrueRange,N,N,,N,N,,,,,,B5_A_Dm,B5_A_Dm,,B5_A_Dm,B5_A_Dm,N,,B5_A_Dm,B5_N_Dm,Fake_news
+2,TRANGE,Volume,Volume,A,A,,A,A,,,,,,B5_C_Dm,B5_C_Dm,,B5_C_Dm,B5_C_Dm,A,,B5_C_Dm,B5_A_Dm,N
+3,Variance,TRANGE,NATR,C,C,,C,C,,,,,,B5_O_Dm,B5_O_Dm,,B5_O_Dm,B5_O_Dm,C,,B5_O_Dm,B5_C_Dm,A
+4,Upperband,,Verified_status_True,O,O,,O,O,,,,,,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,Downward_momentum_created,O,,Downward_momentum_created,B5_O_Dm,C
+5,MACDSIGNAL,,B5_N_Dm,Verified_status_False,Verified_status_False,,Verified_status_False,Verified_status_False,,,,,,Verified_status_True,Verified_status_True,,Verified_status_True,Verified_status_True,Verified_status_False,,Verified_status_True,Downward_momentum_created,O
+6,Volume,,B5_A_Dm,B5_N_Dm,B5_N_Dm,,B5_N_Dm,B5_N_Dm,,,,,,Fake_news,Fake_news,,Fake_news,Fake_news,B5_N_Dm,,Fake_news,Fake_news,B5_N_Dm
+7,,,B5_C_Dm,B5_A_Dm,B5_A_Dm,,B5_A_Dm,B5_A_Dm,,,,,,N,N,,N,N,B5_A_Dm,,N,N,B5_A_Dm
+8,,,B5_O_Dm,B5_C_Dm,B5_C_Dm,,B5_C_Dm,B5_C_Dm,,,,,,A,A,,A,A,B5_C_Dm,,A,A,B5_C_Dm
+9,,,Downward_momentum_created,B5_O_Dm,B5_O_Dm,,B5_O_Dm,B5_O_Dm,,,,,,C,C,,C,C,B5_O_Dm,,C,C,B5_O_Dm
+10,,,MACDSIGNAL,Downward_momentum_created,Downward_momentum_created,,Downward_momentum_created,Downward_momentum_created,,,,,,O,O,,O,O,Downward_momentum_created,,O,O,Downward_momentum_created
+11,,,,Verified_status_True,Verified_status_True,,Verified_status_True,Verified_status_True,,,,,,Verified_status_False,Verified_status_False,,Verified_status_False,Verified_status_False,Verified_status_True,,Verified_status_False,Verified_status_False,Verified_status_True
+12,,,,Volume,Volume,,Volume,Volume,,,,,,Volume,Volume,,Volume,Volume,Volume,,Volume,Volume,Volume
+13,,,,,,,,,,,,,,TRANGE,TRANGE,,TRANGE,TRANGE,,,TRANGE,TRANGE,

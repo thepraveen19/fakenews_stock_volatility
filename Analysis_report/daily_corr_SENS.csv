@@ -1,0 +1,25 @@
+,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index,index
+0,AvgTrueRange,NATR,TRANGE,Fake_news,Fake_news,Fake_news,Fake_news,Fake_news,,,,,,B5_N_Dm,B5_N_Dm,B5_N_Dm,B5_N_Dm,B5_N_Dm,Fake_news,,B5_N_Dm,Verified_status_True,Verified_status_False
+1,TRIX,vol_current,AvgTrueRange,N,N,N,N,N,,,,,,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,N,,Downward_momentum_created,B5_N_Dm,Fake_news
+2,TRANGE,vol_future,Fake_news,A,A,A,A,A,,,,,,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,A,,B5_O_Dm,B5_A_Dm,N
+3,Upperband,,N,E,E,E,E,E,,,,,,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,E,,B5_C_Dm,B5_E_Dm,A
+4,High,,A,C,C,C,C,C,,,,,,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,C,,B5_E_Dm,B5_C_Dm,E
+5,Open,,E,O,O,O,O,O,,,,,,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,O,,B5_A_Dm,B5_O_Dm,C
+6,Adj Close,,C,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,,,,,,N,N,N,N,N,Verified_status_False,,N,Downward_momentum_created,O
+7,Close,,O,B5_N_Dm,B5_N_Dm,B5_N_Dm,B5_N_Dm,B5_N_Dm,,,,,,Fake_news,Fake_news,Fake_news,Fake_news,Fake_news,B5_N_Dm,,Fake_news,Fake_news,B5_N_Dm
+8,Middleband,,Verified_status_False,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,B5_C_Dm,,,,,,O,O,O,O,O,B5_C_Dm,,O,N,B5_C_Dm
+9,Low,,Variance,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,Downward_momentum_created,,,,,,C,C,C,C,C,Downward_momentum_created,,C,A,Downward_momentum_created
+10,Variance,,Volume,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,B5_O_Dm,,,,,,E,E,E,E,E,B5_O_Dm,,E,E,B5_O_Dm
+11,OBV,,Downward_momentum_created,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,B5_A_Dm,,,,,,A,A,A,A,A,B5_A_Dm,,A,C,B5_A_Dm
+12,Lowerband,,B5_O_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,B5_E_Dm,,,,,,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,Verified_status_False,B5_E_Dm,,Verified_status_False,O,B5_E_Dm
+13,MACDSIGNAL,,B5_C_Dm,Volume,Volume,Volume,Volume,Volume,,,,,,Volume,Volume,Volume,Volume,Volume,Volume,,Volume,Verified_status_False,Volume
+14,vol_current,,B5_E_Dm,TRANGE,TRANGE,TRANGE,TRANGE,TRANGE,,,,,,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,TRANGE,,Verified_status_True,Volume,TRANGE
+15,Verified_status_False,,B5_A_Dm,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,Verified_status_True,,,,,,TRANGE,TRANGE,TRANGE,TRANGE,TRANGE,Verified_status_True,,TRANGE,TRANGE,Verified_status_True
+16,O,,B5_N_Dm,Variance,Variance,Variance,Variance,Variance,,,,,,Variance,Variance,Variance,Variance,Variance,Variance,,Variance,,Variance
+17,C,,TRIX,AvgTrueRange,AvgTrueRange,AvgTrueRange,AvgTrueRange,AvgTrueRange,,,,,,,,,,,AvgTrueRange,,,,AvgTrueRange
+18,Fake_news,,High,vol_current,vol_current,vol_current,vol_current,vol_current,,,,,,,,,,,vol_current,,,,vol_current
+19,E,,Upperband,vol_future,vol_future,vol_future,vol_future,vol_future,,,,,,,,,,,vol_future,,,,vol_future
+20,A,,Verified_status_True,OBV,OBV,OBV,OBV,OBV,,,,,,,,,,,OBV,,,,OBV
+21,N,,Adj Close,,,,,,,,,,,,,,,,,,,,
+22,,,Close,,,,,,,,,,,,,,,,,,,,
+23,,,Open,,,,,,,,,,,,,,,,,,,,
